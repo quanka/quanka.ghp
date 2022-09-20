@@ -2,6 +2,7 @@
 bu deneme olarak ilk postum 
 
 örnek kod denemesi
+
 ```tsql
 SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
     , REVERSE('abc')
